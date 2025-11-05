@@ -1,4 +1,4 @@
-<img width="1766" height="899" alt="Screenshot 2025-11-05 174353" src="https://github.com/user-attachments/assets/ddbf7aed-6371-4f30-867a-fc541891b414" /><img width="1766" height="899" alt="Screenshot 2025-11-05 174353" src="https://github.com/user-attachments/assets/39d80ada-bd47-44af-8ab2-3ce1776f7c4b" />❤️ Heart Disease Risk Predictor
+❤️ Heart Disease Risk Predictor
 This project is a Streamlit-based web app that predicts the risk of heart disease using a trained Logistic Regression model. Users can input basic health metrics and lifestyle indicators, and the app will assess whether they are at high or low risk for heart disease.
 
 🚀 Features
