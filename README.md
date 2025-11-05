@@ -1,4 +1,5 @@
 ❤️ Heart Disease Risk Predictor
+
 This project is a Streamlit-based web app that predicts the risk of heart disease using a trained Logistic Regression model. Users can input basic health metrics and lifestyle indicators, and the app will assess whether they are at high or low risk for heart disease.
 
 🚀 Features
@@ -7,14 +8,6 @@ This project is a Streamlit-based web app that predicts the risk of heart diseas
 - 🧠 Encodes categorical variables with one-hot encoding
 - 🎨 Clean and interactive UI with dark/light mode support
 - 📁 Loads model, scaler, and expected columns from .pkl files
-
-🛠️ Tech Stack
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
 
 
 
@@ -29,21 +22,6 @@ streamlit run app.py
 
 
 Make sure Logistic_heart.pkl, scaler.pkl, and columns.pkl are present in the root directory.
-
-
-🧪 Input Parameters
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
 
 
 
