@@ -20,7 +20,7 @@ This project is a Streamlit-based web app that predicts the risk of heart diseas
 
 📦 Installation
 - Clone the repository:
-git clone https://github.com/your-username/heart-risk-predictor.git
+git clone https://github.com/Ayushagrawal-cse/HeartStrokePrediction.git
 cd heart-risk-predictor
 - Install dependencies:
 pip install -r requirements.txt
